@@ -1,0 +1,200 @@
+Saad Falke@LAPTOP-PV227K9C MINGW64 ~
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/Users
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /
+$ cd d
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ mkdir SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ pwd
+/d
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ cd SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ pwd
+/d/SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /
+$ cd c
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c
+$ cd users
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users
+$ cd Saad/Falke
+bash: cd: Saad/Falke: No such file or directory
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users
+$ cd Saad>Falke
+bash: Falke: Permission denied
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users
+$ cd Saad /Falke
+bash: cd: too many arguments
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users
+$ cd Saad/ Falke
+bash: cd: too many arguments
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users
+$ cd Saad>/Falke
+bash: /Falke: Permission denied
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users
+$ cd Saad\ Falke
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users/Saad Falke
+$ cd OneDrive
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users/Saad Falke/OneDrive
+$ cd Desktop
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users/Saad Falke/OneDrive/Desktop
+$ cd Project\ SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users/Saad Falke/OneDrive/Desktop/Project SQL
+$ pwd
+/c/users/Saad Falke/OneDrive/Desktop/Project SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users/Saad Falke/OneDrive/Desktop/Project SQL
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users/Saad Falke/OneDrive/Desktop
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users/Saad Falke/OneDrive
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users/Saad Falke
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c/users
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /c
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /
+$ cd d
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ cd SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$  /c/users/Saad\ Falke/OneDrive/Desktop/Project\ SQL /d/SQL
+bash: /c/users/Saad Falke/OneDrive/Desktop/Project SQL: Is a directory
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ mv  /c/users/Saad\ Falke/OneDrive/Desktop/Project\ SQL /d/SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ cd SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ ls
+'Project SQL'/
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ cd Project\ SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL/Project SQL
+$ ls
+'Average Bonus count - product and subproduct..csv'                              Player_Details.xlsx                                       'Total players - aquisition channel..csv'
+'Average Bonus count - product, subproduct and total active players date..csv'  'Players Activity - dormant, casual and high rollers.csv'  'Total players - deposit method.csv'
+ BonusCost_Data.xlsx                                                            'Product wise revenue.csv'                                 'Year wise revenue.csv'
+'File deposite amount range wise total no. of players.csv'                      'Project Dashboard 2.0.docx'                               'no. of players avtivation - dormant, casual and high rollers.csv'
+ First_Bet_Data.xlsx                                                            'Project Dashboard.docx'                                   'top 2_games.csv'
+ First_Deposit_Data.xlsx                                                        'Project Dashboard.pbit'                                   'top2 _games.csv'
+'Frequency of game played - Product and subproductwise.csv'                     'Project Dashboard.pbix'                                   'total gross win - product and subproductwise.csv'
+'Frequency of game played - Productwise.csv'                                    'Project queries..sql'                                     'total gross win - productwisse.csv'
+'Number of Players participated in year wise.csv'                               'Total net gross win - subproductwise.csv'
+ Player_Activity_Data.xlsx                                                      'Total net gross win -ranking less than 6.csv'
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL/Project SQL
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ touch file.txt
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ ls
+'Project SQL'/   file.txt
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ nano file.txt
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ cat file.txt
+Day2 homework done
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ mv file.txt newfile.txt
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ mv /d/SQL/newfile.txt /d/SQL/Project\ SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ cd SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ cd Project\ SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL/Project SQL
+$ ls
+'Average Bonus count - product and subproduct..csv'                              Player_Details.xlsx                                       'Total players - aquisition channel..csv'
+'Average Bonus count - product, subproduct and total active players date..csv'  'Players Activity - dormant, casual and high rollers.csv'  'Total players - deposit method.csv'
+ BonusCost_Data.xlsx                                                            'Product wise revenue.csv'                                 'Year wise revenue.csv'
+'File deposite amount range wise total no. of players.csv'                      'Project Dashboard 2.0.docx'                                newfile.txt
+ First_Bet_Data.xlsx                                                            'Project Dashboard.docx'                                   'no. of players avtivation - dormant, casual and high rollers.csv'
+ First_Deposit_Data.xlsx                                                        'Project Dashboard.pbit'                                   'top 2_games.csv'
+'Frequency of game played - Product and subproductwise.csv'                     'Project Dashboard.pbix'                                   'top2 _games.csv'
+'Frequency of game played - Productwise.csv'                                    'Project queries..sql'                                     'total gross win - product and subproductwise.csv'
+'Number of Players participated in year wise.csv'                               'Total net gross win - subproductwise.csv'                 'total gross win - productwisse.csv'
+ Player_Activity_Data.xlsx                                                      'Total net gross win -ranking less than 6.csv'
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL/Project SQL
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d/SQL
+$ cd ..
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ rm -r SQL
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$ ls
+'$RECYCLE.BIN'/   Geekster/   Git/   Learn_with_Geekster/  'System Volume Information'/
+
+Saad Falke@LAPTOP-PV227K9C MINGW64 /d
+$
